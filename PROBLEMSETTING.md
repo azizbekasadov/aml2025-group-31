@@ -1,4 +1,4 @@
-# Gender Classification from Audio Signal using GNNs
+# Gender Classification from Audio Signals using GNNs
 
 ## Team members:
 
