@@ -36,6 +36,10 @@ The project will have the following steps:
 **4. Performance Evaluation**
 
 		Use classification accuracy, precision, recall, and F1-score as performance metrics to compare the GNN architectures.
+  
+  		In alignment with the baseline paper, our primary evaluation metric will be the classification accuracy. Precision, recall, and F1-score may still be calculated for deeper analysis, but they will not be central to model comparison.  
+
+    	Additionally, as outlined in the baseline paper, training times will also be recorded to analyse model efficiency, but the main comparision metric would still be the classification accuracy.
 
 
 
@@ -52,6 +56,9 @@ https://www.kaggle.com/datasets/murtadhanajim/gender-recognition-by-voiceorigina
 
 https://www.kaggle.com/datasets/primaryobjects/voicegender - Data of 21 attributes of 3,168 audio signals and labels 
 
-		
+The dataset will be split as follows; 
+	Training set: 60%, 
+	Validation set: 20%, 
+	Test set: 20%
 
 
