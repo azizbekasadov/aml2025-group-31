@@ -1,4 +1,4 @@
-# AML25
+# aml2025-group-15
 Gender Classification from Audio Signals using GNNs
 
 # Project Overview
